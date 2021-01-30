@@ -1,5 +1,5 @@
-//
-//  SceneDelegate.swift
+///Users/ckoehne/Code/CS490 Projects/Flix/Flix/SceneDelegate.swift
+//  SceneDeleg/Users/ckoehne/Code/CS490 Projects/Flix/Flix/ViewController.swiftate.swift
 //  Flix
 //
 //  Created by Chris Koehne on 1/25/21.
