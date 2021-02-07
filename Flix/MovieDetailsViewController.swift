@@ -30,7 +30,7 @@ class MovieDetailsViewController: UIViewController {
         synopsisLabel.sizeToFit()
         let numVotes = movie["vote_count"] as! Int
         let rating = movie["vote_average"] as! Double
-        ratingLabel.text = String(format: "%.1f / 10 \n(\(numVotes))", rating)
+        ratingLabel.text = String(format: "%.1f / 10 \n(\(numVotes) ratings)", rating)
         ratingLabel.sizeToFit()
         
         let basePosterUrl = "https://image.tmdb.org/t/p/w185"
